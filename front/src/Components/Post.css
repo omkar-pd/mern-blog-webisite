@@ -1,0 +1,7 @@
+.card {
+    max-height: 500px;
+    height: 500px;
+}
+.card .article-img {
+max-height: 160px;
+}
